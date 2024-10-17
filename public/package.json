@@ -6,6 +6,6 @@
   "scripts": {
     "start": "vercel dev"
   },
-  "author": "Your Name",
+  "author": "Your Name"
   
 }
